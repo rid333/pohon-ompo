@@ -20,7 +20,7 @@
 
     <div id="main" class="p-5 text-justify flex flex-col gap-y-5">
         <div>
-            anaman Lontar (Borassus Flabellifer), yang juga dikenal sebagai siwalan, merupakan pohon yang banyak tumbuh di daerah kering di Indonesia dan beberapa negara di Asia Tenggara. Tanaman Lontar dapat ditemukan secara luas di berbagai wilayah di Indonesia. Tanaman ini tumbuh subur di daerah-daerah kering, seperti di Madura, Jawa, Bali, Nusa Tenggara, dan Sulawesi. Di luar negeri, penyebaran Lontar juga tercatat di negara-negara seperti Australia, India, Papua Nugini, dan beberapa negara di Asia Tenggara.
+            Tanaman Lontar (Borassus Flabellifer), yang juga dikenal sebagai siwalan, merupakan pohon yang banyak tumbuh di daerah kering di Indonesia dan beberapa negara di Asia Tenggara. Tanaman Lontar dapat ditemukan secara luas di berbagai wilayah di Indonesia. Tanaman ini tumbuh subur di daerah-daerah kering, seperti di Madura, Jawa, Bali, Nusa Tenggara, dan Sulawesi. Di luar negeri, penyebaran Lontar juga tercatat di negara-negara seperti Australia, India, Papua Nugini, dan beberapa negara di Asia Tenggara.
         </div>
         <div>
             <div class="font-bold">Klasifikasi dari tanaman Lontar:</div>
