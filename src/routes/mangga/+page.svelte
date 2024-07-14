@@ -46,5 +46,27 @@
                 <li>Spesies:  Mangifera Indica</li>
             </ul>
         </div>
+        <div>
+            Pohon mangga (Mangifera indica) memiliki berbagai fungsi ekologis yang penting bagi kenyamanan manusia dan lingkungan. Berikut adalah beberapa fungsi ekologis utamanya: 
+            <ul class="px-3 list-decimal">  
+                <li>Penyediaan Oksigen: Pohon mangga, seperti pohon lainnya, menghasilkan oksigen melalui proses fotosintesis. Ini sangat penting untuk kualitas udara di sekitar manusia.</li>
+                <li>Penyerapan Karbon Dioksida: Pohon mangga menyerap karbon dioksida dari atmosfer, membantu mengurangi efek rumah kaca dan mengontrol kadar karbon dioksida di udara.</li>
+                <li>Habitat Hewan: Pohon mangga menyediakan habitat bagi berbagai jenis hewan, termasuk burung, serangga, dan mamalia. Ini meningkatkan keragaman hayati di sekitar pohon.</li>
+                <li>Pengendalian Erosi: Akar pohon mangga dapat menahan tanah dari erosi, mencegah terjadinya banjir dan meningkatkan kesuburan tanah.</li>
+                <li>Penyediaan Tempat Tinggal: Pohon mangga dapat menjadi tempat tinggal bagi berbagai jenis hewan, seperti burung yang membuat sarang di celah-celah batang dan cabang pohon.</li>
+                <li>Penyediaan Makanan: Buah mangga yang matang menjadi sumber makanan bagi berbagai hewan, seperti monyet, burung, dan serangga.</li>
+            </ul>
+        </div>
+        <div>
+            Buah mangga (Mangifera indica) memiliki berbagai manfaat ekonomis yang signifikan. Berikut adalah beberapa manfaat ekonomis utamanya:
+            <ul class="list-disc px-3">
+                <li>Nilai Ekonomi Tinggi: Mangga memiliki nilai ekonomi yang tinggi, yang dapat meningkatkan pendapatan petani dan menguntungkan para pedagang. Ini disebabkan oleh permintaan yang tinggi dan harga yang kompetitif di pasar internasional.</li>
+                <li>Produksi Berkelanjutan: Peningkatan produktivitas mangga dapat meningkatkan produksi dan mengurangi ketergantungan pada impor. Ini penting untuk memastikan keamanan pangan dan stabilitas ekonomi.</li>
+                <li>Pengolahan Produk Olahan: Mangga dapat diolah menjadi berbagai produk seperti selai, manisan, sirup, permen, dan esen. Pengolahan ini tidak hanya memperpanjang masa simpan buah mangga tetapi juga meningkatkan nilai ekonominya</li>
+            </ul>
+        </div>
+        <div>
+            Status konservasi pohon mangga (Mangifera indica) adalah berisiko rendah. Mangga memiliki jenis yang cukup banyak, dan Mangifera indica sendiri masuk kategori jenis mangga yang berisiko rendah.
+        </div>
     </div>
 </div>
