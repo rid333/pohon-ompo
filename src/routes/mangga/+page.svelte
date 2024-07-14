@@ -4,7 +4,7 @@
 
 <div class="flex flex-col gap-y-2">
     <div class="flex flex-col text-xl font-bold">
-        <img src={Mangga} alt="Mangga">
+        <img class="h-screen object-cover" src={Mangga} alt="Mangga">
         <p>Pohon Mangga</p>
         <p>Mangifera indica</p>
     </div>
