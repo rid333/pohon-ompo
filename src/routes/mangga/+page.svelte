@@ -4,15 +4,17 @@
 </script>
 
 <div class="flex flex-col gap-y-2">
-    <div class="flex flex-col text-white font-bold relative">
-        <img class="w-screen h-screen object-cover" src={Mangga} alt="Mangga">
-        <div class="absolute pt-64 pl-5 w-full h-full bg-black bg-opacity-35 ">
-            <p class="text-4xl">Pohon Mangga</p>
-            <i class="text-lg font-normal">Mangifera indica</i>
+    <div class="flex flex-col gap-y-2">
+        <div class="flex flex-col text-white font-bold relative">
+            <img class="w-screen h-screen object-cover" src={Mangga} alt="Mangga">
+            <div class="absolute pt-64 pl-5 w-full h-full bg-black bg-opacity-35 ">
+                <p class="text-4xl">Pohon Mangga</p>
+                <i class="text-lg font-normal">Mangifera indica</i>
+            </div>
+            <a href="#main" class="absolute bottom-0 left-1/2 transform -translate-x-1/2 animate-bounce">
+                <ChevronDown size="48" />
+            </a>
         </div>
-        <a href="#main" class="absolute bottom-0 right-1/2 animate-bounce">
-            <ChevronDown size="48" />
-        </a>
     </div>
 
     <div id="main">
