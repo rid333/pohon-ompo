@@ -18,14 +18,33 @@
         </div>
     </div>
 
-    <div id="main" class="p-5 text-justify">
-        Mangga merupakan salah satu tanaman yang biasanya disebut sebagai mempelam 
-        atau nama ilmiahnya ialah Mangifera indica. Nama tersebut merupakan salah satu 
-        nama yang sekaligus dengan pohonnya. Mangga menjadi salah satu tanaman yang bermarga 
-        Mangifera terdiri atas 35 sampai 40 anggota serta suku Anacardiaceae. Tanaman manga 
-        ini berasal dari India dan juga Burma yang telah tersebar pada Asia Tenggara kira-kira 
-        1500 tahun yang lalu. Pada umumnya budidaya tanaman mangga banyak ditanamn di daerah 
-        tropis, bahkan tak salah kalau mangga bertumbuh subur di negara Indonesia. Tanaman 
-        mangga tersebut memiliki jenis-jenis buah yang berbeda rasanya.
+    <div id="main" class="p-5 text-justify flex flex-col gap-y-5">
+        <div>
+            Mangga merupakan salah satu tanaman yang biasanya disebut sebagai mempelam 
+            atau nama ilmiahnya ialah Mangifera indica. Nama tersebut merupakan salah satu 
+            nama yang sekaligus dengan pohonnya. Mangga menjadi salah satu tanaman yang bermarga 
+            Mangifera terdiri atas 35 sampai 40 anggota serta suku Anacardiaceae. Tanaman manga 
+            ini berasal dari India dan juga Burma yang telah tersebar pada Asia Tenggara kira-kira 
+            1500 tahun yang lalu. Pada umumnya budidaya tanaman mangga banyak ditanamn di daerah 
+            tropis, bahkan tak salah kalau mangga bertumbuh subur di negara Indonesia. Tanaman 
+            mangga tersebut memiliki jenis-jenis buah yang berbeda rasanya.
+        </div>
+        <div>
+            <div class="font-bold">Klasifikasi dari tanaman Mangga:</div>
+            <ul class="list-disc px-3">
+                <li>Kingdom: Plantae</li>
+                <li>Infra Kingdom : Streptophyta</li>
+                <li>Sub Kingdom : Viridiplantae</li>
+                <li>Divisi : Tracheophyta</li>
+                <li>Super Divisi : Embryophyta</li>
+                <li>Sub Divisi : Spermatophytina</li>
+                <li>Kelas : Magnoliopsida</li>
+                <li>Ordo : Sapindales</li>
+                <li>Super Ordo : Rosanae</li>
+                <li>Famili : Anacardiaceae</li>
+                <li>Genus : Mangifera L</li>
+                <li>Spesies : Mangifera Indica</li>
+            </ul>
+        </div>
     </div>
 </div>
