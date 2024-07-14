@@ -33,17 +33,17 @@
             <div class="font-bold">Klasifikasi dari tanaman Mangga:</div>
             <ul class="list-disc px-3">
                 <li>Kingdom: Plantae</li>
-                <li>Infra Kingdom : Streptophyta</li>
-                <li>Sub Kingdom : Viridiplantae</li>
-                <li>Divisi : Tracheophyta</li>
-                <li>Super Divisi : Embryophyta</li>
-                <li>Sub Divisi : Spermatophytina</li>
-                <li>Kelas : Magnoliopsida</li>
-                <li>Ordo : Sapindales</li>
-                <li>Super Ordo : Rosanae</li>
-                <li>Famili : Anacardiaceae</li>
-                <li>Genus : Mangifera L</li>
-                <li>Spesies : Mangifera Indica</li>
+                <li>Infra Kingdom: Streptophyta</li>
+                <li>Sub Kingdom: Viridiplantae</li>
+                <li>Divisi: Tracheophyta</li>
+                <li>Super Divisi: Embryophyta</li>
+                <li>Sub Divisi: Spermatophytina</li>
+                <li>Kelas: Magnoliopsida</li>
+                <li>Ordo: Sapindales</li>
+                <li>Super Ordo: Rosanae</li>
+                <li>Famili: Anacardiaceae</li>
+                <li>Genus: Mangifera L</li>
+                <li>Spesies:  Mangifera Indica</li>
             </ul>
         </div>
     </div>
