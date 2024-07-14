@@ -1,12 +1,14 @@
-<div class="flex flex-col justify-center items-center">
-    <a href="/">Pohon 1</a>
-    <a href="/">Pohon 2</a>
-    <a href="/">Pohon 3</a>
-    <a href="/">Pohon 4</a>
-    <a href="/">Pohon 5</a>
-    <a href="/">Pohon 6</a>
-    <a href="/">Pohon 7</a>
-    <a href="/">Pohon 8</a>
-    <a href="/">Pohon 9</a>
-    <a href="/">Pohon 10</a>
+<div class="flex flex-col justify-center items-center text-3xl font-bold gap-5">
+    <a href="/ara-jejawi">Ara Jejawi</a>
+    <a href="/cemara">Cemara</a>
+    <a href="/jambu">Jambu</a>
+    <a href="/kayu-ara">Kayu Ara</a>
+    <a href="/ketapang">Ketapang</a>
+    <a href="/lontar">Pohon Lontar</a>
+    <a href="/manggga">Pohon Mangga</a>
+    <a href="/nangka">Pohon Nangka</a>
+    <a href="/palem-kuning">Palem Kuning</a>
+    <a href="/palem-raja">Palem Raja</a>
+    <a href="/pucuk-merah">Pucuk Merah</a>
+    <a href="/tanjung">Pohon Tanjung</a>
 </div>

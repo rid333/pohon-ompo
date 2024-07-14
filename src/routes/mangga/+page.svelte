@@ -1,6 +1,7 @@
 <script>
     import Mangga from '$lib/assets/mangga.jpg';
     import { ChevronDown } from 'lucide-svelte';
+
 </script>
 
 <div class="flex flex-col gap-y-2">
@@ -69,4 +70,45 @@
             Status konservasi pohon mangga (Mangifera indica) adalah berisiko rendah. Mangga memiliki jenis yang cukup banyak, dan Mangifera indica sendiri masuk kategori jenis mangga yang berisiko rendah.
         </div>
     </div>
+
+    <swiper-container
+        slides-per-view={1}
+        space-between=10
+        centered-slides={true}
+        autoplay={{
+            delay:10000,
+            disableOnInteraction: false,
+        }}
+        pagination={{
+            clickable: true,
+        }}
+        navigation={{
+            clickable: true,
+        }}
+        breakpoints={{
+            640: {
+                slidesPerView: 1,
+                spaceBetween: 20,
+            },
+            768: {
+                slidesPerView: 2,
+                spaceBetween: 40,
+            },
+            1024: {
+                slidesPerView: 3,
+                spaceBetween: 50,
+            },
+        }}
+        effect='fade'
+    >
+        <swiper-slide>
+            <img class="w-screen h-screen object-cover" src={Mangga} alt="Mangga">
+        </swiper-slide>
+        <swiper-slide>
+            <img class="w-screen h-screen object-cover" src="https://akcdn.detik.net.id/visual/2021/10/12/tanaman-buah-mangga_169.jpeg?w=650" alt="Mangga">
+        </swiper-slide>
+        <swiper-slide>
+            <img class="w-screen h-screen object-cover" src="https://www.blibli.com/friends-backend/wp-content/uploads/2023/08/B700524-Cover-Panduan-Merawat-Tanaman-Pohon-Mangga.jpg" alt="Mangga">
+        </swiper-slide>
+    </swiper-container>
 </div>
