@@ -26,7 +26,6 @@
             <div class="font-bold">Klasifikasi dari tanaman Ketapang:</div>
             <ul class="list-disc px-3">
                 <li>Kingdom: Plantae</li>
-                <li>Kingdom: Plantae</li>
                 <li>Sub-kingdom: Magnoliophyta</li>
                 <li>Kelas: Magnoliopsida</li>
                 <li>Sub-kelas: Rosidae</li>
