@@ -2,7 +2,7 @@
 
 <div class="flex flex-col gap-y-3 p-3">
     <div>
-        Permandian Alam Ompo merupakan salah satu objek wisata yang terletak kurang lebih 3 km di sebelah Utara Kota Watan Soppeng, Kelurahan Ompo, Kecamatan Lalabata, Kabuguten Soppeng, Provinsi Sulawesi Selatan. Tempat wisata ini memiliki daya tarik kesegaran air yang langsung bersumber dari mata air alami di Kelurahan Ompo. Selain menjadi objek wisata, mata air Ompo jaga dimanfaatkan oleh masyarakat sekitar untuk kebutuhan sehari-hari seperti sumber perairan sawah hingga dimanfaatkan oleh seluruh masyarakat Kabupaten Soppeng.
+        Permandian Alam Ompo merupakan salah satu objek wisata yang terletak kurang lebih 3 km di sebelah Utara Kota Watan Soppeng, Kelurahan Ompo, Kecamatan Lalabata, Kabupaten Soppeng, Provinsi Sulawesi Selatan. Tempat wisata ini memiliki daya tarik kesegaran air yang langsung bersumber dari mata air alami di Kelurahan Ompo. Selain menjadi objek wisata, mata air Ompo jaga dimanfaatkan oleh masyarakat sekitar untuk kebutuhan sehari-hari seperti sumber perairan sawah hingga dimanfaatkan oleh seluruh masyarakat Kabupaten Soppeng.
     </div>
 
     <div>
