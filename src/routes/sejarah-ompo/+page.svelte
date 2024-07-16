@@ -34,7 +34,7 @@
     </div>
 
     <div>
-        <ul class="list-decimal">
+        <ul class="list-decimal pl-3.5">
             <li>Sebagian masyarakat Soppeng nanganggap kolam sumber mata air tersebut memiliki nilai mistis sehingga masyarakat pada hari-hari tertentu atau setiap telah melaksanakan hajat keluarga seperti pernikahan atau aqiqah datang ke Pemandian Ompo untuk mandi dan mengirim sesaji berupa telur ayam kampung, pisang, dan sokko pitu rupa (nasi ketan tujuh warna) untuk dipersembahkan ke kolam sumber mata air Ompo.</li>
             <li>Dahulu di mana dalam keadaan yang mendesak masyarakat datang ke sumber mata air Ompo berdoa kepada Tuhan agar sumber air Ompo bertambah debitnya dan tidak disangka saat masyarakat belum meninggalkan tempat tersebut debit airnya sudah bertambah.</li>
             <li>Permandian Alam Ompo juga dipercaya dapat mendatangkan jodoh bagi pengunjung yang lajang dengan mengambil air Ompo di sumber utamanya sebagai obat untuk mendapatkan jodoh secepatnya. Menurut masyarakat sekitar, pengunjung yang masih lajang dan telah mandi di tempat ini akan lebih mudah mendapatkan jodohnya. Namun bukan hanya itu saja, orang-orang yang datang ke pemandian Ompo biasanya tidak hanya sekedar mandi, tetapi juga datang untuk melakukan syukuran dengan memotong hasil ternak seperti ayam, sapi, dan kambing ketika hasil panennya melimpah</li>
