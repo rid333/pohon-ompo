@@ -5,7 +5,7 @@
     <a href="/kayu-ara">Kayu Ara</a>
     <a href="/ketapang">Ketapang</a>
     <a href="/lontar">Pohon Lontar</a>
-    <a href="/manggga">Pohon Mangga</a>
+    <a href="/mangga">Pohon Mangga</a>
     <a href="/nangka">Pohon Nangka</a>
     <a href="/palem-kuning">Palem Kuning</a>
     <a href="/palem-raja">Palem Raja</a>
