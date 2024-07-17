@@ -1,12 +1,11 @@
 <script>
-    import PalemKuning from '$lib/assets/lontar.jpg';
     import { ChevronDown } from 'lucide-svelte';
 </script>
 
 <div class="flex flex-col gap-y-2">
     <div class="flex flex-col gap-y-2">
         <div class="flex flex-col text-white font-bold relative">
-            <img class="w-screen h-screen object-cover" src={PalemKuning} alt="Mangga">
+            <img class="w-screen h-screen object-cover" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dypsis_lutescens1.jpg/250px-Dypsis_lutescens1.jpg" alt="Mangga">
             <div class="absolute pt-64 pl-5 pr-20 w-full h-full bg-black bg-opacity-35 ">
                 <p class="text-4xl">Palem Kuning</p>
                 <i class="text-lg font-normal">Dypsis Lutescens</i>

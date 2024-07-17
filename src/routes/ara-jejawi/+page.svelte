@@ -1,12 +1,11 @@
 <script>
-    import Mangga from '$lib/assets/mangga.jpg';
     import { ChevronDown } from 'lucide-svelte';
 </script>
 
 <div class="flex flex-col gap-y-2">
     <div class="flex flex-col gap-y-2">
         <div class="flex flex-col text-white font-bold relative">
-            <img class="w-screen h-screen object-cover" src={Mangga} alt="Mangga">
+            <img class="w-screen h-screen object-cover" src="https://ragunanzoo.jakarta.go.id/wp-content/uploads/2021/01/ara-jejawi.jpg" alt="Mangga">
             <div class="absolute pt-64 pl-5 pr-20 w-full h-full bg-black bg-opacity-35 ">
                 <p class="text-4xl">Ara Jejawi</p>
                 <i class="text-lg font-normal">Ficus retusa</i>

@@ -1,12 +1,11 @@
 <script>
-    import Raja from '$lib/assets/lontar.jpg';
     import { ChevronDown } from 'lucide-svelte';
 </script>
 
 <div class="flex flex-col gap-y-2">
     <div class="flex flex-col gap-y-2">
         <div class="flex flex-col text-white font-bold relative">
-            <img class="w-screen h-screen object-cover" src={Raja} alt="Mangga">
+            <img class="w-screen h-screen object-cover" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Roystonea_regia.jpg/800px-Roystonea_regia.jpg" alt="Mangga">
             <div class="absolute pt-64 pl-5 pr-20 w-full h-full bg-black bg-opacity-35 ">
                 <p class="text-4xl">Palem Raja</p>
                 <i class="text-lg font-normal">Roystonea Regia</i>

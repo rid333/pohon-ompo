@@ -1,13 +1,12 @@
 
 <script>
-    import KayuAra from '$lib/assets/lontar.jpg';
     import { ChevronDown } from 'lucide-svelte';
 </script>
 
 <div class="flex flex-col gap-y-2">
     <div class="flex flex-col gap-y-2">
         <div class="flex flex-col text-white font-bold relative">
-            <img class="w-screen h-screen object-cover" src={KayuAra} alt="Mangga">
+            <img class="w-screen h-screen object-cover" src="https://lindungihutan.com/blog/wp-content/uploads/2022/11/Foto-pohon-ara.png" alt="Mangga">
             <div class="absolute pt-64 pl-5 pr-20 w-full h-full bg-black bg-opacity-35 ">
                 <p class="text-4xl">Kayu Ara</p>
                 <i class="text-lg font-normal">Ficus Sp</i>

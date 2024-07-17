@@ -1,12 +1,11 @@
 <script>
-    import Cemara from '$lib/assets/lontar.jpg';
     import { ChevronDown } from 'lucide-svelte';
 </script>
 
 <div class="flex flex-col gap-y-2">
     <div class="flex flex-col gap-y-2">
         <div class="flex flex-col text-white font-bold relative">
-            <img class="w-screen h-screen object-cover" src={Cemara} alt="Mangga">
+            <img class="w-screen h-screen object-cover" src="https://www.smpn2cisaga.sch.id/upload/imagecache/48406315Tehnik-MENYETEK-Cemara-Norfolk-500x500.jpg" alt="Mangga">
             <div class="absolute pt-64 pl-5 pr-20 w-full h-full bg-black bg-opacity-35 ">
                 <p class="text-4xl">Tanaman Cemara</p>
                 <i class="text-lg font-normal">Casuarinaceae</i>
