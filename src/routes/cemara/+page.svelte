@@ -22,7 +22,7 @@
             Tanaman cemara merupakan tanaman yang cukup artistik, yang terbentuk dari gaya seni jepang bernama bonsai. Hal inilah mengapa pohon cemara juga seringkali digunakan dalam perayaan tertentu, salah satunya perayaan natal yang biasanya diikuti dengan berbagai macam hiasan ornamen pada pohonnya dan digunakan sebagai dekorasi untuk mempercantik suatu ruangan
         </div>
         <div>
-            Tanaman cemara juga merupakan tanaman yang evergreen dimana daun-daun tanaman tersebut sangat jarang mengering dan rontok terlebih ketika musim gugur tiba.
+            Tanaman cemara juga merupakan tanaman yang evergreen dimana daun-daun tanaman tersebut sangat jarang mengering dan rontok terlebih ketika musim gugur tiba.
         </div>
         <div>
             Tanaman cemara juga merupakan tanaman yang usianya bisa mencapai ratusan bahkan ribuan tahun. Tanaman cemara tersebar dibelahan bumi bagian selatan seperti Amerika Selatan, Afrika Selatan, Australia hingga Selandia Baru, di wilayah khatulistiwa, pohon cemara bisa ditemukan salah satunya di Indonesia. Tanaman cemara masuk dalam kelompok tanaman berbiji atau yang biasa dikenal dengan spermatophyte.
@@ -31,10 +31,10 @@
             <div class="font-bold">Klasifikasi dari tanaman Cemara:</div>
             <ul class="list-disc px-3">
                 <li>Kingdom (Kerajaan): Plantae</li>
-                <li>Division (Divisi : Magnoliophyta</li>
-                <li>Class (Kelas : Magnoliopsida</li>
-                <li>Ordo : Fagales</li>
-                <li>Family : Casuarinaceae</li>
+                <li>Division (Divisi): Magnoliophyta</li>
+                <li>Class (Kelas): Magnoliopsida</li>
+                <li>Ordo: Fagales</li>
+                <li>Family: Casuarinaceae</li>
             </ul>
         </div>
         <div>
